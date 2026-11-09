@@ -1,0 +1,5 @@
+====== Testovanie SwiftMail ======
+
+Táto stránka umožňuje odoslať testovací e-mail z DokuWiki. Môžete ňou overiť, či máte SwiftMail plugin nastavený správne.
+
+Do formulára nižšie zadajte e-mailové adresy príjemcov.
